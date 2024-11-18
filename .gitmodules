@@ -1,0 +1,3 @@
+[submodule "net-cat"]
+	path = net-cat
+	url = https://github.com/josie-opondo/net-cat.git
